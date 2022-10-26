@@ -15,4 +15,5 @@ namespace DesafioProjetoHospedagem.Models
         public int Capacidade { get; set; }
         public decimal ValorDiaria { get; set; }
     }
+    
 }
